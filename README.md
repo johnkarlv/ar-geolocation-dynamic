@@ -1,5 +1,5 @@
-# ar-geolocation
-AR geolocation
+# ar-geolocation-dynamic
+AR geolocation - dynamic
 
 AR Gelocation Project
 
