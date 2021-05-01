@@ -1,7 +1,7 @@
 # ar-geolocation-dynamic
 AR geolocation - dynamic
 
-AR Gelocation Project
+AR Geolocation Project
 
 I like 🚲 🇨🇴 🎧 🚵
 
